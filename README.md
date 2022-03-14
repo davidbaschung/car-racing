@@ -3,7 +3,7 @@
 
 One of my first programs, I started imperative programming and photoshopping at the age of 14 and discovered an interest for the creative process of game-making.
 
-<h3>Program execution</h3>
+<h3>Execution</h3>
 
 emulator or console memory-stick
 
