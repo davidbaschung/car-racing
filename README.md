@@ -1,5 +1,5 @@
 # car-racing
-🟨<h3 style="text-color:yellow">Car racing game for PSP</h3>
+<h3>🟨Car racing game for PSP</h3>
 
 One of my first programs, I started imperative programming and photoshopping at the age of 14 and discovered an interest for the creative process of game-making.
 
